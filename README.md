@@ -1,2 +1,2 @@
 # XERO-Quote-or-Invoice-to-DEC-csv
-[Auto] XERO Quote or Invoice to DEC csv.xlsm
+将XERO的Quote和Invoice生成csv文件 导入DEC (dhlexpresscommerce)
